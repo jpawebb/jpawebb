@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/jpawebb" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@jpawebb-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/jpawebb" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
     <a href="https://medium.com/jpa-quant-articles" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white"></a>
 </p>
 
